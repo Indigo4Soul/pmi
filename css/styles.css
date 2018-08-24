@@ -841,6 +841,7 @@ a:active {
     left: 0;
     bottom: 0;
     z-index: 0;
+    overflow: scroll;
 }
 #content-left h3 {
     font-weight: 400;
