@@ -596,7 +596,7 @@ a:active {
 #announcement {
     width: 100%;
     /*background-color: #388BBF;*/
-    background-color: #FD4B58;
+    background-color: #95001a;
     text-align: center;
     color: #FFF;
     font-weight: 300;
@@ -615,7 +615,7 @@ a:active {
 }
 #announcement:hover {
     /*background: #003366;*/
-    background: #ED4451;
+    background: #74000e;
 }
 
 
